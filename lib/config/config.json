@@ -1,5 +1,6 @@
 {
     "seqGenerica": "sistemas.\"generica_Id_seq\"",
+    "idEstadoActivo":1,
     "estadoActivo":"Activo",
     "estadoDesactivo":"Desactivo"
 }
